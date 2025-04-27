@@ -12,10 +12,10 @@
 
 ### 依赖安装
 
-`pip install openai`openai-1.70.0-py3-none-any.whl  
-`pip install langchain`langchain-0.3.22-py3-none-any.whl  
-`pip install langchain-openai`langchain_openai-0.3.12-py3-none-any.whl
-`pip install -qU "langchain[openai]"
+`pip install openai` openai-1.70.0-py3-none-any.whl  
+`pip install langchain` langchain-0.3.22-py3-none-any.whl  
+`pip install langchain-openai` langchain_openai-0.3.12-py3-none-any.whl
+`pip install -qU "langchain[openai]"`
 `pip install -qU langchain-core`
 `pip install langgraph langchain-community beautifulsoup4`
 `pip install -qU langchain-deepseek`
